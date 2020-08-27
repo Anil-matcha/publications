@@ -1,5 +1,7 @@
 # Links to all my popular publications
 
+- https://nanonets.com/blog/handwritten-character-recognition/
+
 - https://nanonets.com/blog/semantic-image-segmentation-2020/
 
 - https://blog.paperspace.com/use-cyclegan-age-conversion-keras-python/
