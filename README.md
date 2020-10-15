@@ -1,5 +1,9 @@
 # Links to all my popular publications
 
+- https://nanonets.com/blog/extract-structured-data-from-invoice/
+
+- https://blog.paperspace.com/image-super-resolution/
+
 - https://nanonets.com/blog/handwritten-character-recognition/
 
 - https://nanonets.com/blog/semantic-image-segmentation-2020/
